@@ -2,7 +2,7 @@
 
 This project focuses on solving the assignment problem using Colony Optimization with Python. The assignment problem involves assigning n agents to n tasks while minimizing the total cost of the assignment. Each agent can be assigned to perform any task, incurring a specific cost, and the goal is to find the assignment that minimizes the total cost.
 
-![](pic.png)
+<img src="pic.png" alt="Image Description" width="700"/>
 
 ## Problem Description
 
